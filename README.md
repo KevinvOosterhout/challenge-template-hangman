@@ -47,4 +47,6 @@ src/style.css - Entry CSS file
 
 src/words.json - All the words used for the game
 
+src/highscores.json - Highscores file
+
 src/assets/ - Images used
